@@ -20,8 +20,11 @@ This is tested with my Keba P30c Wallbox.
 
 access the Dashboard via your webserver ip / port (if set).
 
+## Keba Documentation
+Followed the Programmers UDP manual found here:
+https://www.keba.com/file/downloads/e-mobility/KeContact_P20_P30_UDP_ProgrGuide_en.pdf
 
-## copyrights
+## Copyrights
 I used the great and free Dashboard template of Creative Tim
 https://www.creative-tim.com/product/material-dashboard
 
