@@ -20,4 +20,9 @@ This is tested with my Keba P30c Wallbox.
 
 access the Dashboard via your webserver ip / port (if set).
 
+
+## copyrights
+I used the great and free Dashboard template of Creative Tim
+https://www.creative-tim.com/product/material-dashboard
+
 Enjoy! 
