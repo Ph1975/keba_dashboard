@@ -2,8 +2,8 @@
 Simple yet efficient Dashboard to get insights in KEBA Wallbox Charging Sessions.
 
 There are for sure better ways to do this, this is just a test use case. You can view and store your last charging sessions, see ongoing chargings, 
-change current during and ongoing session or even stop it. As i am still waiting for my car to be delivere, the last to features are not testet.
-It simply stores the data in some json files, without security etc.
+change current during and ongoing session or even stop it. As i am still waiting for my car to be delivered, the last two features are not tested.
+Notice: data is just stored in some json files, without security etc.
 
 I´d someday love to update this to use websockets to get a better update mechanism than polling. Interested? ;)
 
