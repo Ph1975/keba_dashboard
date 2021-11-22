@@ -9,6 +9,7 @@ I´d someday love to update this to use websockets to get a better update mechan
 
 This is tested with my Keba P30c Wallbox.
 
+![Keba Dashboard](https://github.com/Ph1975/keba_dashboard/blob/master/dashboard.png?raw=true)
 
 ## Configure
 - Change the IP adress from your wallbox in ./pages/keba_trigger.php | ./pages/index.php | ./async/listener.php
